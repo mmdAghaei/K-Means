@@ -1,6 +1,16 @@
 # K-Means
  K-Means Machine Learning
 
+## Plot
+After
+
+
+![alt text](plot/outputAfter.png)
+Before
+
+
+![alt text](plot/outputBefore.png)
+
 ## install Package
 ```
 pip install scikit-learn
